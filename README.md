@@ -3,8 +3,9 @@ Progetto per start2impact
 Super guida Html e Css
 
 Piccoli passi da fare:
-1)Estrarre la cartella "Simone Salvalaggio - html&css" su desktop
-2)Aprire il file index.html 
+
+1) Estrarre la cartella "Simone Salvalaggio - html&css" su desktop
+2) Aprire il file index.html 
 3) Godetevi il sito!
 
 
